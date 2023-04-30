@@ -1,13 +1,13 @@
-package yago.springsecurity;
+package yago.spring.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityApplication {
+public class SpringsecurityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityApplication.class, args);
+		SpringApplication.run(SpringsecurityApplication.class, args);
 	}
 
 }
